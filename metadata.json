@@ -1,0 +1,7 @@
+{
+  "name": "Gesture Sphere vol 2 [ No camera]",
+  "description": "Control a 5,000-particle 3D system with hand gestures. Pinch to form a sphere, open palm to explode.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
